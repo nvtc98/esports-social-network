@@ -1,2 +1,2 @@
-# Esports-Social-Network
+# Esports Social Network
 just Esports Social Network
